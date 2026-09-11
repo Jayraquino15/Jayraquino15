@@ -1,4 +1,4 @@
-Hi, I'm Jay R👋
+Hi, I'm Jay R👋 / user : olbod1400, azulnous
 
 Recent graduate and software developer focused on building practical,
 real-world applications — from biometric authentication systems to
